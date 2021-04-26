@@ -15,7 +15,23 @@ This is a model of Penicilln V prodcued by the fermentation of the fungus *Penic
 Continiously Stirred-Tank Reactor are an alternative to fed-batch cultivation  
 -This model assumes perfect mixing & a uniform concentration profile
 
-
+#### Variables
+| Symb. | Meaning | Units |
+|---|---|---|
+| $C_{opt}$ | Operating Cost | ? |
+| $ \hat V $ | Volumetric flow into reactor | ? |
+| $ f $ | Fraction of penicillin lost during production | ? |
+| $R$ | Production Rate | ? |
+| $M$ | Mutation Rate | ? |
+| $Y$ | Yield | ? |
+| $P$ | Profit | \$ |
+| $In_{glu}$ |Glucose concentration input into the  reactor | ? |  
+| $In_{cls}$ |CSL concentration input into reactor | ? |  
+| $C_{glu}$ |Glucose concentration inside reactor | ? |  
+| $C_{cls}$ |CSL concentration inside reactor | ? |  
+| $ X $ |Biomass concentration inside reactor | ? |
+| $ \alpha _{csl} $ |??? | ? |
+| $ S_{pen} $ |Selling cost of Penicillin | \$ |
 ### References
 
 ---
